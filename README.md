@@ -9,3 +9,7 @@ Project was made for course MA3001 under School of Mechanical &amp; Aerospace En
 \
 *Formats uploaded: STL file, SketchUp (.skp) file, STEP file*\
 *Links to other formats: [Autodesk Fusion 360 archive file](https://drive.google.com/open?id=1JzlPfwAyoXRvsb0Fy6JUz6IfvZeY0Vw1)*
+\
+\
+\
+![alt text](https://github.com/Saurabh-Mudgal/Fusion360_SugarCane-Machine/blob/master/Isometric%20View%20-%20Project.png)
