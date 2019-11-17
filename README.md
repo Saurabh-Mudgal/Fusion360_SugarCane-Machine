@@ -8,7 +8,7 @@ Fusion 360 Inventor was used for solid modelling. Formal [report](https://github
 Project was made for course MA3001 under School of Mechanical &amp; Aerospace Engineering - Nanyang Technological University.\
 \
 *Better viewed on [GrabCAD](https://grabcad.com/library/sugar-cane-juicer-machine-1)*\
-*Formats uploaded: STL file, SketchUp (.skp) file, STEP file*\
+*Formats uploaded: [STL file](https://github.com/Saurabh-Mudgal/Fusion360_SugarCane-Machine/blob/master/SugarCane%20Machine.stl), [SketchUp (.skp) file](https://github.com/Saurabh-Mudgal/Fusion360_SugarCane-Machine/blob/master/SugarCane%20Machine%20(.skp).zip), [STEP file](https://github.com/Saurabh-Mudgal/Fusion360_SugarCane-Machine/blob/master/SugarCane%20Machine%20(.STEP).zip)*\
 *Direct links to other formats: [Autodesk Fusion 360 archive file](https://drive.google.com/open?id=1JzlPfwAyoXRvsb0Fy6JUz6IfvZeY0Vw1)*
 \
 \
